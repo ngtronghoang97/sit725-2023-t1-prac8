@@ -1,0 +1,22 @@
+{
+    "name": "sit725-2023-t1-prac8",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server_get.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ngtronghoang97/sit725-2023-t1-prac8.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ngtronghoang97/sit725-2023-t1-prac8/issues"
+    },
+    "homepage": "https://github.com/ngtronghoang97/sit725-2023-t1-prac8#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
